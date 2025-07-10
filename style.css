@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: solid;
+    text-shadow: 2px;
+    align-content: center;
+    float: none;
+}
+
+a:hover {
+
+    background-color: solid white;
+}
+
+#head {
+    height: fit-contents;
+}
+
+.nav-link {
+    color: beige;
+}
+
+.nav-itam {
+    color: beige;
+}
+
+#bdy {
+    background: solid white;
+
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    height: 20;
+    width: 100vw;
+    padding: 5px;
+    border: 2px solid white;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: rgba(13, 110, 253, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+.container_1 {
+    align-items: center;
+    display: flex;
+    float: right;
+}
+
+.card-title {
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+.btn {
+    justify-content: center;
+}
